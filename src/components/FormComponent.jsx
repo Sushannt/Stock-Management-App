@@ -8,7 +8,7 @@ import loginSchema from "../helper/formValidation";
 import { toast } from "react-toastify";
 
 import axios from "axios";
-import { LOGIN_URL } from "../../constants";
+import { LOGIN_URL } from "../constants";
 const FormComponent = () => {
   // const navigate = useNavigate();
 
